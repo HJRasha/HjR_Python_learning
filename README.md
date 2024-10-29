@@ -2,7 +2,7 @@
 Basic python syntax | Beginners guidelines.
 Topic:
 >- Data Type
->- Data Structure
+>- Basic Data Structure
 >- Operator
 >- Control Flow
 >- Function
